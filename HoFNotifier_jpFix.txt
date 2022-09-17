@@ -7,7 +7,7 @@
 ## Title: Halls of Fabrication Status Panel jpFix
 ## Description: Add Japanese names to catch the boss events correctly
 ## Author: @tdenc [NA]
-## Version: 0.0.1
+## Version: 1.4.3.1
 ## APIVersion: 100021
 ## DependsOn: HoFNotifier
 
